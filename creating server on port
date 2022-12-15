@@ -1,0 +1,18 @@
+# initiating the server run
+syntax on terminal :C:\folder_containing_the_project(django) manage.py runserver
+this will run the server on the local host port
+example:
+C:\admin\desktop\django\ manage.py runserver
+output:
+December 15, 2022 - 10:02:38
+Django version 4.1.4, using settings 'dark.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+at location port : 127.0.0.1:8000 your local hosting is being done
+
+enter the in the chrome tab:
+http://127.0.0.1:8000/
+
+you will an window of django it will show successfully  worked installed page 
+You are seeing this page because DEBUG=True is in your settings file and you have not configured any URLs.
