@@ -1,0 +1,11 @@
+creating the project in command line
+syntax:C:\path_of_folder> django-admin startproject project_name
+PS C:\Users\Admin\Desktop\django> django-admin startproject dark
+this command will create the project along with the files :
+        under the project name : here(dark) 
+                  1.__init__.py
+                  2.asgi.py
+                  3.setting.py
+                  4.url.py
+                  5.wsgl.py
+                  6.manage.py
