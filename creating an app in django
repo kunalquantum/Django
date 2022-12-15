@@ -1,0 +1,13 @@
+In order to provide the functionality to the project that we have created 
+we need an app
+for app creation
+syntax:
+C:\Users\Admin\Desktop\folder_of_project python manage.py startapp name_of_app
+example:
+PS C:\Users\Admin\Desktop\django\dark> python manage.py startapp red
+it will create a function app folder which consist of the following files:
+1.migration(folder) consist of __init_.py
+1.admin,py
+2.models.py
+3.test.py
+4.views,py
